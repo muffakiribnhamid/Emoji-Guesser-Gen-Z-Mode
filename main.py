@@ -1,3 +1,4 @@
+#program to remove fake followers on instagram 
 from instagram_private_api import Client, ClientCompatPatch
 import json
 import time
